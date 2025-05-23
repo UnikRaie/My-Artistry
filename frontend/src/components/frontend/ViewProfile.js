@@ -10,7 +10,7 @@ import { ArrowLeft, Star, MapPin, Mail, Phone, Music, User, DollarSign } from "l
 import Footer from "./Footer"
 import Navbar from "./Navbar"
 import RatingReviewForm from "./Rating&review"
-import RatingCard from "./ratecard"
+import RatingCard from "./Ratecard"
 import { useTheme } from "next-themes"
 
 // Default images
