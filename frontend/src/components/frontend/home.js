@@ -11,8 +11,8 @@ import FeaturedMusicians from "@/components/frontend/main/musicians"
 import FeaturedFeatures from "@/components/frontend/main/FeaturedFeatures"
 import Testimonial from "@/components/frontend/main/Testimonial"
 import ProfileBenefits from "@/components/frontend/main/ProfileBenefits"
-import Section from "@/components/frontend/main/Section"
-import Stats from "@/components/frontend/main/Stats"
+import Section from "@/components/frontend/main/section"
+import Stats from "@/components/frontend/main/stats"
 
 
 
